@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<h1 class="mb-4">{{ .Title }}</h1>
+
+<div id="blogList">
+
+  {{ range .Pages }}
+
+  <div class="card mb-3 blog-item">
+
+    <div class="card-body">
+
+      <h4 class="card-title">
+        <a href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+      </h4>
+
+      <p class="card-text">
+        {{ .Summary }}
+      </p>
+
+    </div>
+
+  </div>
+
+  {{ end }}
+
+</div>
+
+{{ end }}

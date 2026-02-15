@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My Hugo Site</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on My Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ajaira post item</title>
+      <link>http://localhost:1313/blog/ajaira/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/ajaira/</guid>
+      <description>&lt;h2 id=&#34;ajfaira-post&#34;&gt;ajfaira post&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-10/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-10/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-11/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-11/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-12/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-12/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-13/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-13/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-14/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-14/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-4/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-4/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-5/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-5/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-6/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-6/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-7/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-7/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-8/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-8/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy-9/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-9/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/post1-copy/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>second Post</title>
+      <link>http://localhost:1313/blog/post1-copy-2/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-2/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>third</title>
+      <link>http://localhost:1313/blog/post1-copy-3/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1-copy-3/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog&#34;&gt;My First Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first Hugo blog post.&lt;/p&gt;&#xA;&lt;p&gt;Learning Hugo is fun!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

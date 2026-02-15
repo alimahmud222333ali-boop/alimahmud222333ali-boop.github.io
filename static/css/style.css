@@ -1,0 +1,23 @@
+   body {
+      padding-top: 70px;
+    }
+    #search-results {
+  max-height: 300px;
+  overflow-y: auto;
+  border-radius: 6px;
+}
+
+.search-item {
+  cursor: pointer;
+}
+
+.search-item.active,
+.search-item:hover {
+  background-color: #0d6efd;
+  color: #fff;
+}
+
+.search-item mark {
+  background: #ffe066;
+  padding: 0 2px;
+}
