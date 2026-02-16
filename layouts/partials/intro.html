@@ -1,0 +1,43 @@
+{{ $hero := .Params.hero }}
+
+<section class="hero">
+  <div class="hero-container">
+
+    {{ if $hero.image }}
+    <div class="hero-image">
+      <img src="{{ $hero.image }}" alt="{{ $hero.name }}">
+    </div>
+    {{ end }}
+
+    <p class="hero-subtitle">
+      {{ $hero.greeting }} {{ $hero.name }} {{ $hero.emoji }}
+    </p>
+
+    <h1 class="hero-title">
+      {{ $hero.title }} <br>
+      {{ $hero.subtitle }}
+    </h1>
+
+    <h4 class="devloper text-white">
+        {{ $hero.dev }}
+    </h4>
+
+    <p class="hero-description">
+      {{ $hero.description }}
+    </p>
+
+    <div class="hero-buttons">
+      {{ range $hero.buttons }}
+
+        <a href="{{ .link }}"
+           class="btn {{ if eq .type "primary" }}btn-primary{{ else }}btn-outline{{ end }}">
+
+          {{ .text }}
+
+        </a>
+
+      {{ end }}
+    </div>
+
+  </div>
+</section>

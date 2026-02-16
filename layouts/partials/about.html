@@ -1,0 +1,80 @@
+{{ $about := .Params.about }}
+
+<section class="about">
+
+  <div class="about-container">
+
+    <!-- Left Image -->
+    <div class="about-image">
+
+      <img src="{{ $about.image }}" alt="About">
+
+      {{ if $about.badge }}
+      <div class="about-badge">
+        {{ $about.badge }}
+      </div>
+      {{ end }}
+
+    </div>
+
+
+    <!-- Right Content -->
+    <div class="about-content">
+
+      <p class="about-subtitle">
+        {{ $about.subtitle }}
+      </p>
+
+      <h2 class="about-title">
+        {{ $about.heading }}
+      </h2>
+
+      <p class="about-text">
+        {{ $about.description }}
+      </p>
+
+
+      <!-- Cards -->
+      <div class="about-cards">
+
+        {{ range $about.cards }}
+
+        <div class="about-card">
+
+          <div class="about-icon">
+            {{ .icon }}
+          </div>
+
+          <h3>{{ .title }}</h3>
+
+          <p>{{ .text }}</p>
+
+        </div>
+
+        {{ end }}
+
+      </div>
+
+
+      <!-- Tools -->
+      <div class="about-tools">
+
+        <p>Tools i use</p>
+
+        <div class="tool-list">
+
+          {{ range $about.tools }}
+
+          <img src="{{ . }}" alt="Tool">
+
+          {{ end }}
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>

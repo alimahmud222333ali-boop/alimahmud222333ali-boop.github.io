@@ -1,14 +1,14 @@
 {{ define "main" }}
 
-<article>
+{{ if .Params.about }}
+  {{ partial "about.html" . }}
 
-  <h1 class="mb-4">{{ .Title }}</h1>
+{{ else }}
 
-  <div class="content">
+  <article class="page">
     {{ .Content }}
-  </div>
-
-</article>
+  </article>
 
 {{ end }}
 
+{{ end }}

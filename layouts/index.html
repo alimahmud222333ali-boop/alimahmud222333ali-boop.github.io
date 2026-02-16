@@ -1,34 +1,6 @@
 {{ define "main" }}
 
-<div class="text-center">
-
-  <h1 class="mb-4">{{ .Title }}</h1>
-
-  <p class="lead">
-    Welcome to my Hugo website built with Bootstrap.
-  </p>
-
-</div>
-
-<hr>
-
-<div class="row mt-4">
-
-  <div class="col-md-4">
-    <h3>Fast</h3>
-    <p>Hugo builds websites extremely fast.</p>
-  </div>
-
-  <div class="col-md-4">
-    <h3>Modern</h3>
-    <p>Bootstrap gives modern UI.</p>
-  </div>
-
-  <div class="col-md-4">
-    <h3>Flexible</h3>
-    <p>Markdown powered content.</p>
-  </div>
-
-</div>
+{{ partial "intro.html" . }}
+{{ partial "about.html" (site.GetPage "about") }}
 
 {{ end }}
